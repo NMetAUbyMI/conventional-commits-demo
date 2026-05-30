@@ -1,1 +1,1 @@
-function goodbye() { return "Goodbye World!"; }
+function hello(name) { return "Hello " + name; }
