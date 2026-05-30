@@ -1,3 +1,4 @@
+---
 name: Feature Request
 about: Запропонуйте ідею для цього проєкту
 title: '[FEATURE] '
